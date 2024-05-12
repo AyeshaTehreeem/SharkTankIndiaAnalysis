@@ -1,7 +1,7 @@
 
 # Shark Tank India Analysis
 
-Analysis of Sony TV's new popular show 'Shark Tank India'. The analysis covers all the 3 seasons and is on 78 columns of data with 430+ records
+This comprehensive analysis delves into the performance of Sony TV's popular show 'Shark Tank India' across all three seasons. The dataset comprises 430+ records and encompasses 78 columns of data, offering deep insights into various aspects of the show's impact in India
 
 
 
@@ -107,3 +107,6 @@ Guest Present - Whether Guest(s) present in episode or not
 - Who among the well-known investors, or "sharks," is the most generous in startup deals, and how do their investment patterns compare with others?
 - How can we provide detailed insights into a specific shark's total investment across different industries during a specific season, including the percentage of investment in each sector relative to the total investment?
 - Which shark in the venture capital sphere has the most diversified investment portfolio across different industries, and what insights can be gained into their investment strategies?
+
+## SQL Queries
+-  [Check the SQL queries here](https://github.com/aishteh/SharkTankIndiaAnalysis/blob/main/sharktank.sql)
