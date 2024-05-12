@@ -1,7 +1,7 @@
 
 # Shark Tank India Analysis
 
-This comprehensive analysis delves into the performance of Sony TV's popular show 'Shark Tank India' across all three seasons. The dataset comprises 430+ records and encompasses 78 columns of data, offering deep insights into various aspects of the show's impact in India
+This comprehensive analysis delves into the performance of Sony TV's popular show 'Shark Tank India' across all three seasons. The dataset comprises 430+ records and encompasses 78 columns of data, offering deep insights into various aspects of the show's impact in India.
 
 
 
